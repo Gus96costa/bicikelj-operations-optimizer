@@ -61,3 +61,5 @@ B. Proximity-Based Logistical PairingSolves the redistribution vehicle routing p
 | **Povšetova - Grablovičeva** | 19 | Savsko Naselje 1 - Šmartinska C. | 20 | **1.27 km** |
 | **Živalski Vrt** | 19 | Koseški Bajer | 20 | **1.78 km** |
 | **Tržaška C. - Ilirija** | 19 | P+R Barje | 20 | **2.15 km** |
+
+![BicikeLJ Network Health Audit](assets/network_health.png)
