@@ -48,7 +48,8 @@ Version Control: Git, GitHub.
 
 Data Source: OPSI - Open Data Slovenia / Cyclocity GBFS Feed.
 
-4. Key Analytical Queries
+4. Key Analytical Queries<br>
+
 A. Network Health Matrix (KPI Classification)
 Categorizes all 88 active stations into operational health tiers to give leadership an immediate health score of the entire urban grid.
 
