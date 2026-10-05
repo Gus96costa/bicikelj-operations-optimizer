@@ -52,4 +52,12 @@ Data Source: OPSI - Open Data Slovenia / Cyclocity GBFS Feed.
 A. Network Health Matrix (KPI Classification)
 Categorizes all 88 active stations into operational health tiers to give leadership an immediate health score of the entire urban grid.
 
-B. Proximity-Based Logistical PairingSolves the redistribution vehicle routing problem by matching saturated donor stations (docks_available <= 1) with the nearest empty recipient stations (bikes_available = 0) using Euclidean distance calibrated for Ljubljana coordinates.
+B. Proximity-Based Logistical PairingSolves the redistribution vehicle routing problem by matching saturated donor stations (docks_available <= 1) with the nearest empty recipient stations (bikes_available = 0) using Euclidean distance calibrated for Ljubljana coordinates:
+
+| Donor Station (Overload) | Available Bikes | Receiver Station (Zero Stock) | Free Docks | Transit Distance |
+| :--- | :--- | :--- | :--- | :--- |
+| **Zaloška C. - Grablovičeva C.** | 16 | Savsko Naselje 1 - Šmartinska C. | 20 | **0.99 km** |
+| **IKEA** | 20 | Savsko Naselje 1 - Šmartinska C. | 20 | **1.11 km** |
+| **Povšetova - Grablovičeva** | 19 | Savsko Naselje 1 - Šmartinska C. | 20 | **1.27 km** |
+| **Živalski Vrt** | 19 | Koseški Bajer | 20 | **1.78 km** |
+| **Tržaška C. - Ilirija** | 19 | P+R Barje | 20 | **2.15 km** |
